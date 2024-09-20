@@ -40,8 +40,10 @@ footer:
 social:
   - title: twitter
     url: http://twitter.com/rocketronz
-  - title: github
-    url: http://github.com/RocketRonz
+  - title: bluesky
+    url: https://bsky.app/profile/rocketronz.bsky.social
+  - title: tiktok
+    url: https://www.tiktok.com/@rocketronz
 
 # Build settings
 markdown: kramdown
